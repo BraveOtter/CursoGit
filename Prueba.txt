@@ -9,3 +9,5 @@ mi nombre es Adrián
 la fecha es 2023
 
 Comenzando con git
+
+git show agregado
