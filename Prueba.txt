@@ -11,3 +11,5 @@ la fecha es 2023
 Comenzando con git
 
 git show agregado
+
+Cambios de la rama nuevaRama
