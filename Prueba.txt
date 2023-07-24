@@ -8,7 +8,7 @@ mi nombre es: Adrian Madueno.
 
 la fecha es 2023
 
-Comenzando con git
+Comenzando con git2
 
 git show agregado
 
