@@ -13,3 +13,5 @@ git show agregado
 Cambios de la rama nuevaRama
 
 Pruebas nuevo pull request 1
+
+arreglitos
