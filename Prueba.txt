@@ -6,10 +6,10 @@ Espero que tengan un excelente dis
 
 mi nombre es: Adrian Madueno.
 
-la fecha es 2023
-
 Comenzando con git2
 
 git show agregado
 
 Cambios de la rama nuevaRama
+
+Pruebas nuevo pull request 1
